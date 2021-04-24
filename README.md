@@ -1,2 +1,2 @@
-# SkullsMinerLite-MinersBinaries
- SkullsMinerLite-MinersBinaries
+# SkullsMiner-MinersBinaries
+Miners Binaries for SkullsMiner
